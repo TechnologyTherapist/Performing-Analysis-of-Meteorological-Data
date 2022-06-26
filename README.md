@@ -1,6 +1,5 @@
 
 <h1 align="center">Performing Analysis of Meteorological Data</h1>
-<h3 align="center">Project - I</h3> 
 
 
 
